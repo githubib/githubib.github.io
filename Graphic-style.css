@@ -21,12 +21,12 @@
   }
 
 @font-face {
-    font-family: 'Graphik Bold';
-    src: local('Graphik Bold'), local('Graphik-Bold'),
-        url('https://githubib.github.io/Graphik-Bold.woff2') format('woff2'),
-        url('https://githubib.github.io/Graphik-Bold.woff') format('woff'),
-        url('https://githubib.github.io/Graphik-Bold.ttf') format('truetype'),
-        url('https://githubib.github.io/Graphik-Bold.eot') format('embedded-opentype');
+    font-family: 'Graphik Light';
+    src: local('Graphik Light'), local('Graphik-Light'),
+        url('https://githubib.github.io/Graphik-Light.woff2') format('woff2'),
+        url('https://githubib.github.io/Graphik-Light.woff') format('woff'),
+        url('https://githubib.github.io/Graphik-Light.ttf') format('truetype'),
+        url('https://githubib.github.io/Graphik-Light.eot') format('embedded-opentype');
     font-weight: 400;
     font-style: normal;
   }
